@@ -1,0 +1,11 @@
+site_name: Documentation Example
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
+  pallette:
+    primary: blue
+
+repo_url: https://github.com/xAntiPyrox/docsexample
